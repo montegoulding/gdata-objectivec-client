@@ -6,3 +6,9 @@
 	path = Deps/gtm-oauth2
 	url = https://github.com/google/gtm-oauth2.git
 	branch = master
+[submodule "Deps/GTMAppAuth"]
+	path = Deps/GTMAppAuth
+	url = https://github.com/google/GTMAppAuth
+[submodule "Deps/AppAuth-iOS"]
+	path = Deps/AppAuth-iOS
+	url = https://github.com/openid/AppAuth-iOS
